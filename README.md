@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-the prject is hosted here http://tender-orange.surge.sh/
+the project is hosted here http://tender-orange.surge.sh/
 
 ## Available Scripts
 
